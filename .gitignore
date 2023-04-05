@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+head_csv.csv
+headphones_2.csv
+headhpones.ods
+headphones.csv-back
